@@ -26,4 +26,4 @@ jobs:
     - name: Run tests
       run: |
         cd infra_project/
-	python3 manage.py test
+	python manage.py test
